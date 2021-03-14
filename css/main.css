@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+button
+{
+    position: absolute;
+    border: 3px solid white;
+    margin: auto;
+    font-size: 16px;
+    color: white;
+    padding: 20px 40px 20px 40px;
+}
